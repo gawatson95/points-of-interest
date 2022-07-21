@@ -6,6 +6,9 @@ Travel to the greatest sights of the world from the comfort of wherever you are 
 
 This app has been formatted especially with dark mode and iPad users in mind, matched with seamless transitions and animations for a excellent user experience.
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/86983846/180279791-42fce5eb-94de-4861-962e-b8f55c261bd6.png)
+
 ## Techniques Demonstrated
 
 - Animations
