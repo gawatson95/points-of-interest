@@ -1,4 +1,5 @@
-<img width="93" alt="Screen Shot 2022-07-21 at 12 27 41 PM" src="https://user-images.githubusercontent.com/86983846/180276223-276610f0-1a8b-4546-bcde-c769e28232e4.png">
+![poiicon](https://user-images.githubusercontent.com/86983846/187572699-186873e3-d2b9-4124-bee5-3a2979fb95e5.png)
+
 
 # Points of Interest
 
